@@ -1,2 +1,2 @@
 # PythonIntro
-Ejercicios de introducción a Python
+Introductory exercises to python
